@@ -1,0 +1,17 @@
+.trackList {
+    margin: auto;
+    width: 20%;
+}
+
+body {
+    font-size: 16pt;
+    background-color: gray;
+}
+
+li {
+    border: solid 1px black;
+    margin: 2%;
+    background: white;
+    border-radius: 7px;
+    
+}
